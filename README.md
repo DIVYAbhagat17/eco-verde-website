@@ -9,7 +9,6 @@ Eco-Verde is an AI-assisted concept website for a sustainable e-commerce platfor
 - 🌱 Eco-friendly product showcase
 - 🛍️ Sustainable shopping concept
 - 💻 User-friendly interface
-- 📱 Responsive website design
 
 ## Project Status
 pull try
